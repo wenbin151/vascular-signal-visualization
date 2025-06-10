@@ -25,3 +25,9 @@ This project is an independent academic effort. It is **not affiliated with or e
 ## 📎 License
 
 [MIT License](LICENSE)
+
+![12](https://github.com/user-attachments/assets/8e80c43a-8e15-4cd1-82ec-7a884f644798)
+
+![13](https://github.com/user-attachments/assets/966d0314-5711-4334-8567-b49ba07e2675)
+
+![14](https://github.com/user-attachments/assets/de8ff008-4aaf-4fca-92fb-11cfa51ba20e)
